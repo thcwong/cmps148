@@ -25,7 +25,7 @@ South is Hallway 3.
 Room 3544 is a room. The description of Room 3544 is "A stereo system is playing a recent heavy metal hit. The room is decorated with a large poster of a rock band and a wall with black and red painting. The trash can is filled with scraps of papers with writings on them."
 North is Hallway 4.
 
-Room 3545 <Your Room> is a room. 
+Room 3545 <Your Room> is a room. The description of Room 3545 is "It is a spartan room. There is a wire frame bed with a mattress on it and a closet. There is a dresser with two drawers in it. The wallpaper in the room is peeling off."
 South is Hallway 4.
 
 Room 3546 is a room. The description of Room 3546 is "The smell is rife with marijuana. The window is wide open, and the heater is turned on all the way. Gentle yet hypnotic music is playing in the background. The color theme of the room is rainbow. There are clothes scattered about the room, but there is a diary on the desk."
@@ -34,7 +34,7 @@ North is Hallway 5.
 Room 3547 is a room. The description of Room 3547 is "There are bottles of liquor everywhere -- vodka, whiskey, rum -- grouped up in a minibar located at the corner of the room. The window is cracked open slightly, and the bed is plagued with stained drinks and the carpet with vomit. There is a torn luggage with some items."
 South is Hallway 5.
 
-Hall Bathroom is a room. 
+Hall Bathroom is a room. The description of Hall Bathroom is "There is a public bathroom in the middle of the hall. The bathroom is very dirty. The bathroom has not been cleaned in several years. The mirror in the bathroom wall is hanging on one edge. The sink is dirty but not clogged. There is no soap to be found in the bathroom. The shower can only fit one person at a time. There are blood stains on the shower floor. The shower head is broken. When the water is turned on for the shower, it sprays water like that of a lawn hose. The toilet is clogged. There is poop in the toliet that seems to not have been flushed in years. It smells terrible. There is a sink, toilet, shower and a mirror in the bathroom."
 North is Hallway 3.
 
 Stairwell Room is a room.
