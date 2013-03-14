@@ -40,31 +40,31 @@ North is Hallway 3.
 Stairwell Room is a room.
 East is Hallway 1.
 
-Hallway 1 is a room.
+Hallway 1 is a room. The description of Hallway 1 is "There are graffiti on the walls and dust everywhere. A mouse can be heard rustling in a corner."
 North is Room 3539.
 South is Room 3540.
 West is Stairwell Room.
 East is Hallway 2.
 
-Hallway 2 is a room.
+Hallway 2 is a room. The description of Hallway 2 is "There are graffiti on the walls and dust everywhere. The light on the ceiling is flickering. The bulb should be replaced soon."
 North is Room 3541.
 South is Room 3542.
 West is Hallway 1.
 East is Hallway 3.
 
-Hallway 3 is a room.
+Hallway 3 is a room. The description of Hallway 3 is "There are graffiti on the walls and dust everywhere. It is very quiet in the middle of the hallway; you can hear the echoes of sounds from inside the residents' rooms."
 North is Room 3543.
 South is Hall Bathroom.
 West is Hallway 2.
 East is Hallway 4.
 
-Hallway 4 is a room.
+Hallway 4 is a room. The description of Hallway 4 is "There are graffiti on the walls and dust everywhere. The light on the ceiling is completely dead. It needs to be replaced soon."
 North is Room 3545.
 South is Room 3544.
 West is Hallway 3.
 East is Hallway 5.
 
-Hallway 5 is a room.
+Hallway 5 is a room. The description of Hallway 5 is "It is very dark, and the window is too dirty to show you what is going on outside at this time of night. The graffiti art on the wall seems to represent the devil, with the number 666 painted on both sides. Who lives at this end of the hallway?"
 North is Room 3547.
 South is Room 3546.
 West is Hallway 4.
