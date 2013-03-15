@@ -1,4 +1,38 @@
-"Sunrise" by AshTomWin
+"Sunrise" by TomAshWin
+
+
+
+When play begins: say "You peer outside the window for the final time, soaking in the tranquil view of the city, admiring the way the full moon illuminates even the darkest area of the most narrow alleys. This moment puts you in a peaceful state of mind, lessening the stress you have acquired throughout the week. You close the window, climb onto your bed, and turn off the light, letting yourself drift away into your dreams, until...
+
+Knock knock knock.
+
+You will a loud banging on the door. You slowly rise up from your bed, checking the time. 
+
+It is 3:00 A.M.
+
+KNOCK. KNOCK. KNOCK.
+
+You grow irritated by the sudden noise. You get off your bed to unlock and crack open the door only to be thrown back by the full force of the visitor.
+
+A young girl hastes in, locking the door. She stops in her tracks for a split second, looking both directions as if she were clinging on to her life.
+
+She sprints towards your closet and hides in there.
+
+A couple seconds later, two large figures dressed in black and disguised with sunglasses break your door down.
+
+'This is an emergency. We are looking for a young girl who is on the run. We repeat, this is an emergency. Is she in here?'"
+
+Room 3545 <Your Room> is a room. The description of Room 3545 is "It is a spartan room. There is a wire frame bed with a mattress on it and a closet. There is a dresser with two drawers in it. The wallpaper in the room is peeling off, and your door is broken, thanks to these random men."
+South is Hallway 4.
+
+Kidnappers is a man in Room 3545 <Your Room>.  "Anyway, the kidnappers seem desperate. Do you answer 'no' or 'yes'?"
+
+After telling Kidnappers about "no":
+say "The men are about to leave your room when they hear a sudden noise in your closet. The men rush over to the closet and open it, knocking the girl unconscious and dragging her out of your apartment."
+
+After telling Kidnappers about "yes":
+say "You point towards your closet. The men rush over to the closet and open it, knocking the girl unconscious and dragging her out of your apartment."
+
 
 Room 3539 is a room.
 South is Hallway 1.
@@ -24,9 +58,6 @@ South is Hallway 3.
 
 Room 3544 is a room. The description of Room 3544 is "A stereo system is playing a recent heavy metal hit. The room is decorated with a large poster of a rock band and a wall with black and red painting. The trash can is filled with scraps of papers with writings on them."
 North is Hallway 4.
-
-Room 3545 <Your Room> is a room. The description of Room 3545 is "It is a spartan room. There is a wire frame bed with a mattress on it and a closet. There is a dresser with two drawers in it. The wallpaper in the room is peeling off."
-South is Hallway 4.
 
 Room 3546 is a room. The description of Room 3546 is "The smell is rife with marijuana. The window is wide open, and the heater is turned on all the way. Gentle yet hypnotic music is playing in the background. The color theme of the room is rainbow. There are clothes scattered about the room, but there is a diary on the desk."
 North is Hallway 5.
