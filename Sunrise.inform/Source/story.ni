@@ -28,9 +28,11 @@ South is Hallway 4.
 Kidnappers is a man in Room 3545 <Your Room>.  "Anyway, the kidnappers seem desperate. Do you answer 'no' or 'yes'?"
 
 After telling Kidnappers about "no":
+now Kidnappers is off-stage;
 say "The men are about to leave your room when they hear a sudden noise in your closet. The men rush over to the closet and open it, knocking the girl unconscious and dragging her out of your apartment."
 
 After telling Kidnappers about "yes":
+now Kidnappers is off-stage;
 say "You point towards your closet. The men rush over to the closet and open it, knocking the girl unconscious and dragging her out of your apartment."
 
 
